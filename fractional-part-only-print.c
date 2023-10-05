@@ -6,6 +6,6 @@ int main() {
     scanf("%f", &x);
     int y = x;
     float fractionalPart = x - y; // used logic of greatest integer function 
-    printf("The fractional part of the above entered number is : %f", fractionalPart);
+    printf("The fractional part of the above entered number is : %f", fractionalPart);      
     return 0;
 }

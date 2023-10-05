@@ -11,6 +11,6 @@ int main() {
 
     // if (1){ // this 1 makes if true automatically
     //     (numberEntered%3==0)?((numberEntered%5==0)?printf("HiHello"):printf("Hi")):printf("Hello");
-    // } //ternary operator
+    // } //ternary operator and this is faster than normal if and else statements
     return 0;
 }
