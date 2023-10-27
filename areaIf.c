@@ -58,5 +58,6 @@ int main() {
             printf("Perimeter of side of circle is %f",perimeter);
         }
     }
+    // scanf("%s"); // used to wait the exe to show the output right way is add timer 
     return 0;
 }
