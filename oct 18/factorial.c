@@ -8,6 +8,5 @@ int main() {
         factorialSum = factorialSum*i;
     }
     printf("%d", factorialSum);
-    
     return 0;
 }
